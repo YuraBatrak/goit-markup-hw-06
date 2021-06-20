@@ -922,7 +922,7 @@ img {
   width: 16px;
   height: 15px;
   border-radius: 2px;
-  border: 2px solid var(--highlight-color);
+  border: 2px solid var(--first-text-color);
   cursor: pointer;
 }
 .modal-icon-box {
